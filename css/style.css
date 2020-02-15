@@ -8,8 +8,16 @@
     margin:22px;
     background-color:grey;
 }
-.h1{
+h1{
     text-align: center;
     color: indianred;
     font-style: inherit;
 }
+body{
+    background-color: cornsilk;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+  }
