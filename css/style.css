@@ -1,0 +1,15 @@
+.text-box{
+    border-left: 2px solid blue;
+    border-right: 4px solid blue;
+    border-top: 6px solid blue;
+    border-bottom: 19px solid black;
+    border: 2px solid blue;
+    padding: 25px;
+    margin:22px;
+    background-color:grey;
+}
+.h1{
+    text-align: center;
+    color: indianred;
+    font-style: inherit;
+}
