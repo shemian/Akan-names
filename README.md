@@ -48,3 +48,6 @@ You may also want to track the master branch for easy pull/push
        2.html
        3.bootstrap
        4.js console
+       
+  # lisencing and copyright infomation
+  
