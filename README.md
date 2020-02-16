@@ -41,3 +41,10 @@ Existing Git Repo?
 You may also want to track the master branch for easy pull/push
   git config branch.master.merge refs/heads/master
   git config branch.master.remote origin
+  
+  # Technologies used
+  In this project we've used several technologies
+       1.css
+       2.html
+       3.bootstrap
+       4.js console
