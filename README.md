@@ -13,3 +13,11 @@ to this webpage
   .Download vs code or Atom - This will help you type in the code and also it will help you design most features
   .Download bootstrap - Basically bootstrap will make your webpage attractive.
   .
+    Download VS Code .deb
+    Debian, Ubuntu
+    Download VS Code .rpm
+    Red Hat, Fedora, SUSE
+   .deb	64 bit
+   .rpm	64 bit
+   .tar.gz	64 bit
+          Snap Storesudo snap install --classic code # or code-insiders
