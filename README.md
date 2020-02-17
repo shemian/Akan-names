@@ -68,4 +68,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Author's Name
 Ian shem Nyongesa
  
+ # contact info:
+ Email:shemian092@gmail.com
+ instagram page:shenian
  
