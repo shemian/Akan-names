@@ -8,7 +8,7 @@ var work = function ()  {
     var date = d.getDay();
     document.getElementById("demo").innerHTML = date;
 
-    var male_names = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+    var male_names = ["Kwasi", "Kwadwo", "Kwabena", "Kwahu", "Yaw", "Kofi", "Kwame"];
     var female_names =["Akosua", "Adwoa", "Abenaa", "Akua",  "Yaa", "Afua", "Ama"];
 
     var akan_name = "";
@@ -18,8 +18,10 @@ var work = function ()  {
         akan_name = female_names[date];
     }
     document.getElementById("demo").innerHTML = akan_name;
-
+    alert("Your akan name is " +akan_name)
+    
 }
+ 
 
 function getGender() {
     var gender;
