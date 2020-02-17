@@ -22,7 +22,7 @@ to this webpage
   mkdir PROJECT_NAME
   cd PROJECT_NAME
   git init
-  touch README
+  touch README.md
   git add README
   git commit -m 'first commit'
   git remote add origin git@github.com:USER/PROJECT_NAME.git
