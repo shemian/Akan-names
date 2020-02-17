@@ -22,7 +22,7 @@ to this webpage
   mkdir PROJECT_NAME
   cd PROJECT_NAME
   git init
-  touch README
+  touch README.md
   git add README
   git commit -m 'first commit'
   git remote add origin git@github.com:USER/PROJECT_NAME.git
@@ -50,6 +50,7 @@ You may also want to track the master branch for easy pull/push
        4.js console
         
   # BDD
+  This the procedure to take
   DD--This button is where the user inputs date of birth
   MM---This is month input button
   YYYY--This is where the user inputs the year they were born
@@ -64,5 +65,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Author's Name
+Ian shem Nyongesa
  
+ # contact info:
+ Email:shemian092@gmail.com
+ instagram page:shenian
+ facebook:shemian78
+ git hub: shemian
  
