@@ -10,15 +10,28 @@
 }
 h1{
     text-align: center;
-    color: indianred;
+    color: rgb(244, 250, 249);
     font-style: inherit;
 }
 body{
     background-color: cornsilk;
-    background-image: url(https://bit.ly/323iWU1);
+    background-image: url(https://bit.ly/2HwqmWE);
 }
 
 
 table, th, td {
-    border: 1px solid black;
-  }
+    border: 1px solid cornsilk;
+    color: cornsilk;
+}
+p{
+    color: rgb(244, 250, 249);
+}
+h2{
+    color: rgb(244, 250, 249);
+}
+h3{ 
+    color: rgb(244, 250, 249);
+}
+.table{
+    color: cornsilk;
+}
