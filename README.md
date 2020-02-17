@@ -50,6 +50,7 @@ You may also want to track the master branch for easy pull/push
        4.js console
         
   # BDD
+  This the procedure to take
   DD--This button is where the user inputs date of birth
   MM---This is month input button
   YYYY--This is where the user inputs the year they were born
