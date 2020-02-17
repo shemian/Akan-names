@@ -48,6 +48,11 @@ You may also want to track the master branch for easy pull/push
        2.html
        3.bootstrap
        4.js console
+        
+  # BDD
+  DD--This button is where the user inputs date of birth
+  MM---This is month input button
+  YYYY--This is where the user inputs the year they were born
        
   # lisencing and copyright infomation
   MIT License
